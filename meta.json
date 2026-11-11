@@ -1,0 +1,47 @@
+{
+ "app": "rutaviva",
+ "ciudad": "zaragoza",
+ "formato": 1,
+ "actualizado": "2026-11-11T22:08:58+01:00",
+ "publicado": "2026-11-11T22:08:58+01:00",
+ "cambios": [
+  "network.json",
+  "alerts.json",
+  "labels.json"
+ ],
+ "versiones": {
+  "network.json": "9a029476dcbe",
+  "alerts.json": "23efdf711444",
+  "labels.json": "88885357c7ce"
+ },
+ "fuentes": {
+  "ayuntamiento": {
+   "ok": true,
+   "n": 60,
+   "fecha": "2026-11-11T22:08:58+01:00"
+  },
+  "avanza": {
+   "ok": true,
+   "n": 9,
+   "fecha": "2026-11-11T22:08:58+01:00"
+  }
+ },
+ "gtfs": {
+  "urbano": {
+   "version": "20260623_AUZSA_Y_TRANVIA",
+   "hasta": "20261005"
+  },
+  "regional_aragon": {
+   "version": "",
+   "hasta": "20261207"
+  }
+ },
+ "avisos": 73,
+ "siguiente_en_min": 15,
+ "equipo": {
+  "bateria": 67,
+  "temperatura": 29.3,
+  "cargando": false,
+  "salud": "GOOD"
+ }
+}
