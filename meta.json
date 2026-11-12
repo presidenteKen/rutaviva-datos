@@ -3,7 +3,7 @@
  "ciudad": "zaragoza",
  "formato": 1,
  "actualizado": "2026-11-12T14:00:00+01:00",
- "publicado": "2026-11-12T16:00:00+01:00",
+ "publicado": "2026-11-12T17:00:01+01:00",
  "cambios": [],
  "versiones": {
   "network.json": "9a029476dcbe",
@@ -14,12 +14,12 @@
   "ayuntamiento": {
    "ok": true,
    "n": 69,
-   "fecha": "2026-11-12T16:00:00+01:00"
+   "fecha": "2026-11-12T17:00:01+01:00"
   },
   "avanza": {
    "ok": true,
    "n": 7,
-   "fecha": "2026-11-12T16:00:00+01:00"
+   "fecha": "2026-11-12T17:00:01+01:00"
   }
  },
  "gtfs": {
@@ -35,8 +35,8 @@
  "avisos": 80,
  "siguiente_en_min": 15,
  "equipo": {
-  "bateria": 18,
-  "temperatura": 23.9,
+  "bateria": 15,
+  "temperatura": 23.5,
   "cargando": false,
   "salud": "GOOD"
  }
