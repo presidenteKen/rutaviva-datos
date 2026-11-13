@@ -2,26 +2,26 @@
  "app": "rutaviva",
  "ciudad": "zaragoza",
  "formato": 1,
- "actualizado": "2026-11-13T13:30:00+01:00",
- "publicado": "2026-11-13T13:30:00+01:00",
+ "actualizado": "2026-11-13T13:45:01+01:00",
+ "publicado": "2026-11-13T13:45:01+01:00",
  "cambios": [
   "alerts.json"
  ],
  "versiones": {
   "network.json": "9a029476dcbe",
-  "alerts.json": "8cd1b522ba97",
+  "alerts.json": "04321b26fe25",
   "labels.json": "88885357c7ce"
  },
  "fuentes": {
   "ayuntamiento": {
    "ok": true,
-   "n": 70,
-   "fecha": "2026-11-13T13:30:00+01:00"
+   "n": 71,
+   "fecha": "2026-11-13T13:45:01+01:00"
   },
   "avanza": {
    "ok": true,
    "n": 7,
-   "fecha": "2026-11-13T13:30:00+01:00"
+   "fecha": "2026-11-13T13:45:01+01:00"
   }
  },
  "gtfs": {
@@ -34,11 +34,11 @@
    "hasta": "20261207"
   }
  },
- "avisos": 81,
+ "avisos": 82,
  "siguiente_en_min": 15,
  "equipo": {
-  "bateria": 14,
-  "temperatura": 24.1,
+  "bateria": 13,
+  "temperatura": 24.3,
   "cargando": false,
   "salud": "GOOD"
  }
