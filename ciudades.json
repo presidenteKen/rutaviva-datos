@@ -1,0 +1,15 @@
+{
+ "formato": 1,
+ "ciudades": [
+  {
+   "id": "zaragoza",
+   "nombre": "Zaragoza",
+   "datos": "",
+   "centro": [
+    -0.8891,
+    41.6488
+   ],
+   "zoom": 12.5
+  }
+ ]
+}
