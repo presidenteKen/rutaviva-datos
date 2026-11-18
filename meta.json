@@ -3,7 +3,7 @@
  "ciudad": "zaragoza",
  "formato": 1,
  "actualizado": "2026-11-17T12:15:00+01:00",
- "publicado": "2026-11-18T06:45:00+01:00",
+ "publicado": "2026-11-18T09:10:53+01:00",
  "cambios": [],
  "versiones": {
   "network.json": "bb66e8e4d3a1",
@@ -13,14 +13,16 @@
  },
  "fuentes": {
   "ayuntamiento": {
-   "ok": true,
+   "ok": false,
+   "error": "sin conexión",
    "n": 58,
-   "fecha": "2026-11-18T06:45:00+01:00"
+   "fecha": "2026-11-18T07:15:00+01:00"
   },
   "avanza": {
-   "ok": true,
+   "ok": false,
+   "error": "sin conexión",
    "n": 7,
-   "fecha": "2026-11-18T06:45:00+01:00"
+   "fecha": "2026-11-18T07:15:00+01:00"
   }
  },
  "gtfs": {
@@ -40,8 +42,8 @@
   "GTFS: Avanza Zaragoza y Gobierno de Aragón (NAP)"
  ],
  "equipo": {
-  "bateria": 81,
-  "temperatura": 21.8,
+  "bateria": 80,
+  "temperatura": 22.2,
   "cargando": false,
   "salud": "GOOD"
  }
