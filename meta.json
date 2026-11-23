@@ -2,27 +2,28 @@
  "app": "rutaviva",
  "ciudad": "zaragoza",
  "formato": 1,
- "actualizado": "2026-11-17T12:15:00+01:00",
- "publicado": "2026-11-18T09:10:53+01:00",
- "cambios": [],
+ "actualizado": "2026-11-23T21:53:59+01:00",
+ "publicado": "2026-11-23T21:53:59+01:00",
+ "cambios": [
+  "alerts.json",
+  "labels.json"
+ ],
  "versiones": {
   "network.json": "bb66e8e4d3a1",
-  "alerts.json": "e7fdaa1c927d",
-  "labels.json": "88885357c7ce",
+  "alerts.json": "35a03d13ba43",
+  "labels.json": "e6edd4b132b5",
   "schedule.json": "7a1dbe481a50"
  },
  "fuentes": {
   "ayuntamiento": {
-   "ok": false,
-   "error": "sin conexión",
-   "n": 58,
-   "fecha": "2026-11-18T07:15:00+01:00"
+   "ok": true,
+   "n": 62,
+   "fecha": "2026-11-23T21:53:59+01:00"
   },
   "avanza": {
-   "ok": false,
-   "error": "sin conexión",
-   "n": 7,
-   "fecha": "2026-11-18T07:15:00+01:00"
+   "ok": true,
+   "n": 8,
+   "fecha": "2026-11-23T21:53:59+01:00"
   }
  },
  "gtfs": {
@@ -35,15 +36,15 @@
    "hasta": "20261207"
   }
  },
- "avisos": 69,
+ "avisos": 74,
  "siguiente_en_min": 15,
  "atribucion": [
   "Origen de los datos: Ayuntamiento de Zaragoza",
   "GTFS: Avanza Zaragoza y Gobierno de Aragón (NAP)"
  ],
  "equipo": {
-  "bateria": 80,
-  "temperatura": 22.2,
+  "bateria": 95,
+  "temperatura": 29.5,
   "cargando": false,
   "salud": "GOOD"
  }
