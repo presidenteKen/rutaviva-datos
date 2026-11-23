@@ -2,6 +2,21 @@
  "formato": 1,
  "ciudades": [
   {
+   "id": "madrid",
+   "nombre": "Madrid",
+   "datos": "madrid/",
+   "centro": [
+    -3.7038,
+    40.4168
+   ],
+   "zoom": 12,
+   "operador": "EMT Madrid",
+   "atribucion": [
+    "Origen de los datos: Ayuntamiento de Madrid (datos.madrid.es)",
+    "EMT Madrid"
+   ]
+  },
+  {
    "id": "zaragoza",
    "nombre": "Zaragoza",
    "datos": "",
@@ -9,7 +24,13 @@
     -0.8891,
     41.6488
    ],
-   "zoom": 12.5
+   "zoom": 12.5,
+   "operador": "Avanza",
+   "atribucion": [
+    "Origen de los datos: Ayuntamiento de Zaragoza",
+    "GTFS: Avanza Zaragoza y Gobierno de Aragón (NAP)"
+   ],
+   "llegadas": "zaragoza"
   }
  ]
 }

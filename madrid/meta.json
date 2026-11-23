@@ -1,0 +1,44 @@
+{
+ "app": "rutaviva",
+ "ciudad": "madrid",
+ "formato": 1,
+ "actualizado": "2026-11-23T21:53:59+01:00",
+ "publicado": "2026-11-23T21:53:59+01:00",
+ "cambios": [
+  "network.json",
+  "alerts.json",
+  "labels.json",
+  "schedule.json"
+ ],
+ "versiones": {
+  "network.json": "a369832e80d1",
+  "alerts.json": "c69b40b14108",
+  "labels.json": "e2902a3a3b20",
+  "schedule.json": "e1c92527ebf3"
+ },
+ "fuentes": {
+  "ayuntamiento": {
+   "ok": true,
+   "n": 5,
+   "fecha": "2026-11-23T21:53:59+01:00"
+  }
+ },
+ "gtfs": {
+  "urbano": {
+   "version": "",
+   "hasta": "20271231"
+  }
+ },
+ "avisos": 5,
+ "siguiente_en_min": 20,
+ "atribucion": [
+  "Origen de los datos: Ayuntamiento de Madrid (datos.madrid.es)",
+  "EMT Madrid"
+ ],
+ "equipo": {
+  "bateria": 95,
+  "temperatura": 29.5,
+  "cargando": false,
+  "salud": "GOOD"
+ }
+}
