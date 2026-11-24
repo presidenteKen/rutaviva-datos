@@ -2,28 +2,28 @@
  "app": "rutaviva",
  "ciudad": "zaragoza",
  "formato": 1,
- "actualizado": "2026-11-23T21:53:59+01:00",
- "publicado": "2026-11-23T21:53:59+01:00",
+ "actualizado": "2026-11-24T21:26:35+01:00",
+ "publicado": "2026-11-24T21:26:35+01:00",
  "cambios": [
-  "alerts.json",
-  "labels.json"
+  "network.json",
+  "alerts.json"
  ],
  "versiones": {
-  "network.json": "bb66e8e4d3a1",
-  "alerts.json": "35a03d13ba43",
+  "network.json": "a74f23d881e0",
+  "alerts.json": "3560fde662ac",
   "labels.json": "e6edd4b132b5",
   "schedule.json": "7a1dbe481a50"
  },
  "fuentes": {
   "ayuntamiento": {
    "ok": true,
-   "n": 62,
-   "fecha": "2026-11-23T21:53:59+01:00"
+   "n": 63,
+   "fecha": "2026-11-24T21:26:35+01:00"
   },
   "avanza": {
    "ok": true,
    "n": 8,
-   "fecha": "2026-11-23T21:53:59+01:00"
+   "fecha": "2026-11-24T21:26:35+01:00"
   }
  },
  "gtfs": {
@@ -36,16 +36,16 @@
    "hasta": "20261207"
   }
  },
- "avisos": 74,
+ "avisos": 75,
  "siguiente_en_min": 15,
  "atribucion": [
   "Origen de los datos: Ayuntamiento de Zaragoza",
   "GTFS: Avanza Zaragoza y Gobierno de Aragón (NAP)"
  ],
  "equipo": {
-  "bateria": 95,
-  "temperatura": 29.5,
-  "cargando": false,
+  "bateria": 71,
+  "temperatura": 28.9,
+  "cargando": true,
   "salud": "GOOD"
  }
 }
