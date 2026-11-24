@@ -2,25 +2,28 @@
  "app": "rutaviva",
  "ciudad": "madrid",
  "formato": 1,
- "actualizado": "2026-11-23T21:53:59+01:00",
- "publicado": "2026-11-23T21:53:59+01:00",
+ "actualizado": "2026-11-24T21:26:35+01:00",
+ "publicado": "2026-11-24T21:26:35+01:00",
  "cambios": [
   "network.json",
-  "alerts.json",
-  "labels.json",
-  "schedule.json"
+  "alerts.json"
  ],
  "versiones": {
-  "network.json": "a369832e80d1",
-  "alerts.json": "c69b40b14108",
+  "network.json": "c1d937e68ee9",
+  "alerts.json": "82a860b00a55",
   "labels.json": "e2902a3a3b20",
   "schedule.json": "e1c92527ebf3"
  },
  "fuentes": {
   "ayuntamiento": {
    "ok": true,
-   "n": 5,
-   "fecha": "2026-11-23T21:53:59+01:00"
+   "n": 12,
+   "fecha": "2026-11-24T21:26:35+01:00"
+  },
+  "emt": {
+   "ok": true,
+   "n": 34,
+   "fecha": "2026-11-24T21:26:35+01:00"
   }
  },
  "gtfs": {
@@ -29,16 +32,16 @@
    "hasta": "20271231"
   }
  },
- "avisos": 5,
+ "avisos": 46,
  "siguiente_en_min": 20,
  "atribucion": [
   "Origen de los datos: Ayuntamiento de Madrid (datos.madrid.es)",
-  "EMT Madrid"
+  "EMT Madrid MobilityLabs"
  ],
  "equipo": {
-  "bateria": 95,
-  "temperatura": 29.5,
-  "cargando": false,
+  "bateria": 71,
+  "temperatura": 28.9,
+  "cargando": true,
   "salud": "GOOD"
  }
 }
